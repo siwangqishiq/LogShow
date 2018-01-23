@@ -1,0 +1,13 @@
+2018-01-23 15:13:45  [ main:0 ] - [ DEBUG ]  This is debug message.
+2018-01-23 15:13:45  [ main:3 ] - [ INFO ]  This is info message.
+2018-01-23 15:13:45  [ main:3 ] - [ ERROR ]  This is error message.
+2018-01-23 15:13:45  [ main:4 ] - [ INFO ]  This is info message.0
+2018-01-23 15:13:45  [ main:4 ] - [ INFO ]  This is info message.1
+2018-01-23 15:13:45  [ main:4 ] - [ INFO ]  This is info message.2
+2018-01-23 15:13:45  [ main:4 ] - [ INFO ]  This is info message.3
+2018-01-23 15:13:45  [ main:5 ] - [ INFO ]  This is info message.4
+2018-01-23 15:13:45  [ main:6 ] - [ INFO ]  This is info message.5
+2018-01-23 15:13:45  [ main:7 ] - [ INFO ]  This is info message.6
+2018-01-23 15:13:45  [ main:7 ] - [ INFO ]  This is info message.7
+2018-01-23 15:13:45  [ main:7 ] - [ INFO ]  This is info message.8
+2018-01-23 15:13:45  [ main:7 ] - [ INFO ]  This is info message.9
